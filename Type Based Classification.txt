@@ -1,0 +1,16 @@
+Product Based Firms:
+
+1. What are the key metrics to evaluate classification?
+2. How to handle imbalanced dataset in classification?
+3. What is recall and precision, what is F1-Score?
+4. Derived questions on statistical concepts like - how to draw a CDF for the toss of coin based situations?
+5. Take home assignment to write a python program for constrained optima evaluation
+
+Consulting:
+1. Difference between linear regression and decision tree
+2. Difference between boosting and bagging
+3. Timeseries: importance of stationarity, how to evaluate stationarity and test methodology for stationarity
+4. 
+
+
+
